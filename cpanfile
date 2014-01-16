@@ -41,6 +41,9 @@ requires 'Module::Refresh';
 requires 'Devel::REPL::Plugin::DataPrinter';
 
 on 'test' => sub {
+    requires 'Test::EOL';
+    requires 'Test::Pod', '1.41';
     requires 'Test::More', '0.98';
+    requires 'Test::NoTabs';
 };
 
