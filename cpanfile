@@ -3,7 +3,6 @@ requires 'perl', '5.008001';
 # these all come with perlbrew, but I like to install them
 # so I can keep track of changes with cpan-outdated & cpan-listchanges
 requires 'App::cpanminus';
-requires 'App::perlbrew';
 
 # feature 'Basic Tools',
 requires 'App::Ack';
@@ -16,6 +15,7 @@ requires 'Carp::Always';
 requires 'Carp::Always::Color';
 requires 'Devel::Confess';
 requires 'Test::Pretty', '0.23';
+requires 'Git::CPAN::Patch';
 requires 'Term::ReadLine::Gnu'; # up/down/tab work in perl -d
 
 # Hey Hey!  Term::ReadLine::Gnu won't install on stock OS X.  To get
