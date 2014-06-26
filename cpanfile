@@ -9,6 +9,7 @@ requires 'App::Ack';
 # requires 'App::perlfind';  # fails to install
 requires 'App::cpanoutdated';
 requires 'App::cpanlistchanges';
+requires 'App::ph'; # init github remotely, seems fun
 
 # handy modules
 requires 'Carp::Always';
