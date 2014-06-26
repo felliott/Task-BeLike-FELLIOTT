@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Task::BeLike::FELLIOTT - It's new $module
+Task::BeLike::FELLIOTT - FELLIOTT's preferred modules
 
 =head1 SYNOPSIS
 
@@ -22,7 +22,7 @@ Task::BeLike::FELLIOTT - It's new $module
 
 =head1 DESCRIPTION
 
-Task::BeLike::FELLIOTT is ...
+See C< cpanfile > for details.
 
 =head1 LICENSE
 
