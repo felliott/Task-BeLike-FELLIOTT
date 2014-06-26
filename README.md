@@ -1,6 +1,6 @@
 # NAME
 
-Task::BeLike::FELLIOTT - It's new $module
+Task::BeLike::FELLIOTT - FELLIOTT's preferred modules
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ Task::BeLike::FELLIOTT - It's new $module
 
 # DESCRIPTION
 
-Task::BeLike::FELLIOTT is ...
+See ` cpanfile ` for details.
 
 # LICENSE
 

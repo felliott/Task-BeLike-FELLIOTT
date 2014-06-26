@@ -6,7 +6,7 @@ requires 'App::cpanminus';
 
 # feature 'Basic Tools',
 requires 'App::Ack';
-requires 'App::perlfind';
+# requires 'App::perlfind';  # fails to install
 requires 'App::cpanoutdated';
 requires 'App::cpanlistchanges';
 
@@ -16,7 +16,7 @@ requires 'Carp::Always::Color';
 requires 'Devel::Confess';
 requires 'Test::Pretty', '0.23';
 requires 'Git::CPAN::Patch';
-requires 'Term::ReadLine::Gnu'; # up/down/tab work in perl -d
+# requires 'Term::ReadLine::Gnu'; # up/down/tab work in perl -d # fails to install
 
 # Hey Hey!  Term::ReadLine::Gnu won't install on stock OS X.  To get
 # it to work with libreadline from Homebrew do::
