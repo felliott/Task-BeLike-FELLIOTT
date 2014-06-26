@@ -75,5 +75,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/felliott/Task-BeLike-FELLIOTT/issues"
+      },
+      "homepage" : "https://github.com/felliott/Task-BeLike-FELLIOTT",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/felliott/Task-BeLike-FELLIOTT.git",
+         "web" : "https://github.com/felliott/Task-BeLike-FELLIOTT"
+      }
+   },
    "version" : "0.01"
 }
