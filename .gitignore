@@ -3,6 +3,7 @@
 /Build
 /Build.bat
 /blib
+/Makefile
 
 /carton.lock
 /.carton/
@@ -21,6 +22,8 @@ cover_db/
 *.obj
 
 !LICENSE
+
+/_build_params
 
 MYMETA.*
 
